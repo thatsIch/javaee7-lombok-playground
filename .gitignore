@@ -1,8 +1,8 @@
 # exclude all
 /*
 
-# include project files
-!src/
+# git related files
+!.gitignore
 
 # maven related files
 !pom.xml
@@ -10,5 +10,10 @@
 !mvnw.cmd
 !.mvn/
 
-# git related files
-!.gitignore
+# docker related files
+!Dockerfile
+
+# include project files
+!src/
+!WEB-INF/
+!README.md
