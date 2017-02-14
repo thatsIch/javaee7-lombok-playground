@@ -1,8 +1,8 @@
 # exclude all
-*
+ /*
 
 # include project files
-!src
+!src/
 
 # maven related files
 !pom.xml
