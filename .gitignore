@@ -1,0 +1,11 @@
+# exclude all
+*
+
+# include project files
+!src
+
+# maven related files
+!pom.xml
+
+# git related files
+!.gitignore
