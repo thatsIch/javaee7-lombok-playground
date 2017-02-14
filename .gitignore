@@ -6,6 +6,9 @@
 
 # maven related files
 !pom.xml
+!mvnw
+!mvnw.cmd
+!.mvn/
 
 # git related files
 !.gitignore
