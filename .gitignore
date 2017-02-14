@@ -1,5 +1,5 @@
 # exclude all
- /*
+/*
 
 # include project files
 !src/
